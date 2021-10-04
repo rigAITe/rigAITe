@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rigAITe
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in React Native Projects
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on interesting Project
 - 📫 You can reach me through aitboy18@gmail.com 
