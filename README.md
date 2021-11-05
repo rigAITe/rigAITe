@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting Project
 - 📫 You can reach me through aitboy18@gmail.com 
 
-NOTE: All of my mobile development project are Private kindly get in touch to access them.  
+NOTE: All my mobile development project are Private kindly get in touch to access them.  
 
 <!---
 rigAITe/rigAITe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
