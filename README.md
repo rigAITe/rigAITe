@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rigAITe
 - 👀 I’m interested in React and React Native Projects
-- 🌱 I’m currently learning TDD
+- 🌱 I’m currently learning Node.JS
 - 💞️ I just dont write code I develop architecturally following React Design Pattern
 - 📫 You can reach me through aitboy18@gmail.com 
 
