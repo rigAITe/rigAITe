@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rigAITe
-- 👀 I’m interested in React and React Native Projects
-- 🌱 I’m currently learning AI and Cybersecuirity
-- 💞️ I just dont write code I enjoy writing it
+- 👀 I’m interested in React and React Native Projects.
+- 🌱 I’m currently learning AI and Cybersecuirity.
+- 💞️ I just don't write code I give life to it.
 - 📫 You can reach me through aitboy18@gmail.com 
 
 <!---
